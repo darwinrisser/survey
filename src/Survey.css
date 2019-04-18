@@ -1,0 +1,7 @@
+#everything {
+  width: 50%;
+  margin: 0 auto;
+  padding: 35px;
+  border: solid .5px lightgray;
+  box-shadow: 2px 2px 2px whitesmoke;
+}
